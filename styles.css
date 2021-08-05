@@ -1,0 +1,14 @@
+/* you can do the same things as in the style block, targeting different elements so its not confusing*/
+
+h2 {
+    color: purple;
+}
+
+.scrollable-section
+{
+    border: 5px dashed blue;
+}
+
+#njit-title {
+    font-family:'Trebuchet MS';
+}
